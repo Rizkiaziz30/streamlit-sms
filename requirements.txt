@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlip
+nltk
+random
+streamlit
+pip
+scikit-learn
+sklearn
